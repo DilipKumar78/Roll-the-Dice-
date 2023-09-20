@@ -8,24 +8,21 @@ First ensure that nodejs is installed in your system.
 I used the Command Prompt to run this project.
 For Mac, it is different.
 
-## Working:
-From the place where the project resides, open the Command Prompt.
-Use the package manager [npm](https://www.npmjs.com/) to install the required packages
+## Installation
+Install the Required npm packages.
 
 ``bash
 npm inint
 ``
-Install expressjs.
-
 ``bash
 npm install express
 ``
-Install nodemon  // This is to ensure that server can run even if you make changes in the file.
-
 ``bash
 npm install -g nodemon
 ``
-Run the app.js file.
-
-Open LocalHost:3000 in your browser.
-There You Go.
+## Working
+Open the Command Prompt <br>
+Install the Required npm Packages <br>
+Run the app.js file.<br>
+Open *localHost:3000* in your browser.<br>
+**There You Go.**
